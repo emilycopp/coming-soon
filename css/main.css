@@ -1,0 +1,41 @@
+html {
+  box-sizing: border-box;
+  margin-top: 3em;
+}
+
+*, *::before, *::after {
+  box-sizing: inherit;
+}
+
+h1 {
+  color: #87c2af;
+  text-align: center;
+}
+
+body {
+  text-align: center;
+  font-family: 'Verdana';
+  color: #483825;
+}
+
+.contact {
+  color: #c2decf;
+}
+
+img {
+  height: 100%;
+}
+
+.profile {
+  border-radius: 400px;
+  max-width: 200px;
+}
+
+.icon {
+  max-width: 50px;
+}
+
+a {
+  text-decoration: none;
+}
+
